@@ -25,7 +25,8 @@ import com.starnamu.cardmemorize.main_fragment_folder.ForuDirection_Fragment;
 
 
 public class MainActivity extends ActionBarActivity {
-    /*
+    /**
+     * 커밋을 테스트 중입니다.
     * */
     Toolbar toolbar;
     /**
